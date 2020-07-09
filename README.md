@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif">
+  <br><br>
+  <samp>
+    I am Jaeyeonling | A Software engineer
+    <br><br>
+    🔥 Clean Code, Shared Knowledge, Challenge Oriented 🔥
+    <br><br>
+    Contact me on <a href="mailto:jaeyeonling@gmail.com">Send an Email</a>
+  </samp>
+</p>
+
+
 <!--
 **jaeyeonling/jaeyeonling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
